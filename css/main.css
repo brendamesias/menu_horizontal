@@ -1,0 +1,16 @@
+*{
+  font-family: sans-serif;
+}
+
+nav{
+  outline: 1px solid brown;
+}
+
+li{
+  outline: 1px solid blue;
+  display: inline;
+}
+
+a{
+  outline: 1px solid green;
+}
